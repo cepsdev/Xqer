@@ -1,2 +1,2 @@
 # Xqer
-Xreq×qerX=1
+Xqer × reqX = 1
